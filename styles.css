@@ -47,17 +47,17 @@ h1:hover {
 .pimg2 {
   background-image: url("images/FullSizeRender-1.jpeg");
   background-size: 60%;
-  min-height: 600px;
+  min-height: 800px;
 }
 
 .pimg3 {
   background-image: url("images/IMG_2233.JPG");
   background-size: 40%;
-  min-height: 600px;
+  min-height: 800px;
 }
 
 .pimg4 {
   background-image: url("images/FullSizeRender.jpeg");
-  background-size: 80%;
-  min-height: 600px;
+  background-size: 50%;
+  min-height: 800px;
 }
