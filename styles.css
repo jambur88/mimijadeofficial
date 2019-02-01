@@ -60,13 +60,13 @@ h2 {
   background-size: 40%;
   min-height: 110vh;
   background-color: rgb(255 253 254);
-  background-position: center right;
+  background-position: 75% 50%;
 }
 
 .pimg3 {
   background-image: url("images/i3.jpeg");
-  background-size: 30%;
-  background-position: center left;
+  background-size: 50%;
+  background-position: 20% 50%;
   min-height: 110vh;
 }
 
