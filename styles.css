@@ -39,25 +39,25 @@ h1:hover {
 }
 
 .pimg1 {
-  background-image: url("../images/img1.jpeg");
+  background-image: url("images/img1.jpeg");
   min-height: 700px;
   background-size: 100%;
 }
 
 .pimg2 {
-  background-image: url("../images/FullSizeRender-1.jpeg");
+  background-image: url("images/FullSizeRender-1.jpeg");
   background-size: 60%;
   min-height: 600px;
 }
 
 .pimg3 {
-  background-image: url("../images/IMG_2233.jpg");
+  background-image: url("images/IMG_2233.jpg");
   background-size: 40%;
   min-height: 600px;
 }
 
 .pimg4 {
-  background-image: url("../images/FullSizeRender.jpeg");
+  background-image: url("images/FullSizeRender.jpeg");
   background-size: 80%;
   min-height: 600px;
 }
