@@ -19,7 +19,7 @@ h1 {
   font-weight: lighter;
   text-shadow: 5px 5px 10px black;
   width: 5em;
-  margin: 4% auto;
+  margin: 3% auto;
   font-family: "Pacifico", cursive;
 }
 
@@ -49,27 +49,29 @@ h2 {
 }
 
 .pimg1 {
-  background-image: url("images/i1-2.jpeg");
-  min-height: 700px;
+  background-image: url("images/i1.jpeg");
+  min-height: 110vh;
   background-size: 40%;
   background-position: center bottom;
 }
 
 .pimg2 {
-  background-image: url("images/FullSizeRender-1.jpeg");
-  background-size: 45%;
-  min-height: 800px;
+  background-image: url("images/i2.jpeg");
+  background-size: 40%;
+  min-height: 110vh;
   background-color: rgb(255 253 254);
+  background-position: center right;
 }
 
 .pimg3 {
-  background-image: url("images/IMG_2233.JPG");
-  background-size: 40%;
-  min-height: 800px;
+  background-image: url("images/i3.jpeg");
+  background-size: 30%;
+  background-position: center left;
+  min-height: 110vh;
 }
 
 .pimg4 {
-  background-image: url("images/FullSizeRender.jpeg");
-  background-size: 50%;
-  min-height: 800px;
+  background-image: url("images/i4.jpeg");
+  background-size: 40%;
+  min-height: 110vh;
 }
